@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment
+node_modules/
+.env
+
+# Build outputs
+/dist/
+/build/
